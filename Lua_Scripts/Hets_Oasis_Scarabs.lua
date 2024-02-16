@@ -29,12 +29,12 @@ local crocStates = {24584, 24592, 24589, 24594, 24587, 24586, 24591, 24590}
 --GOLDEN ROSE   = 122499
 -----------------------
 --Change this ID to the flower that you're going to be using
-local flower = 122497
+local flower = 122495
 
 --Change this to the max stack of Scarabs you can have. 
 --3 if you don't have the upgrade, 5 if you do
 -- settings it to is not recommmended but will increase Shell yield when using Golden Roses
-local maxStack = "5"
+local maxStack = "3"
 
 --Just used to track the amount of scarabs you have in your inventory
 
