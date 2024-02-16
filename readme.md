@@ -1,6 +1,6 @@
 <center><h1>Asmodeus Cruentus</h1></center>
 
-![Screenshot](https://github.com/AsmodeusCruentus/MemoryErrorScripts/blob/main/logodone.jpg)
+![Screenshot](https://github.com/AsmodeusCruentus/Images/blob/main/logodone.jpg)
 
 Welcome to the Asmodeus Cruentus repository!
 
