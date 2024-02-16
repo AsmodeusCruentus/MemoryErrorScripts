@@ -1,3 +1,5 @@
+![Screenshot](https://github.com/AsmodeusCruentus/MemoryErrorScripts/blob/main/logodone.jpg)
+
 # Asmodeus Cruentus
 
 Welcome to the Asmodeus Cruentus repository!
