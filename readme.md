@@ -1,7 +1,6 @@
 <center><h1>Asmodeus Cruentus</h1></center>
 ![Screenshot](https://github.com/AsmodeusCruentus/MemoryErrorScripts/blob/main/logodone.jpg)
 
-
 Welcome to the Asmodeus Cruentus repository!
 
 This repository contains scripts for Memory Error. Please note that these scripts come with risks, and their usage is entirely at your own discretion. I am not liable for any issues that may arise from the use of these scripts.
