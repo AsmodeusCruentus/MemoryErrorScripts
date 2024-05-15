@@ -1,4 +1,4 @@
-<center><h1>Asmodeus Cruentus</h1></center>
+<center><h1>Public Scripts/h1></center>
 
 Welcome to the Public Script Repository of Asmodeus Cruentus!
 
