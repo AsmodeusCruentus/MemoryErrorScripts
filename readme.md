@@ -1,7 +1,5 @@
 <center><h1>Asmodeus Cruentus</h1></center>
 
-![Screenshot](https://github.com/AsmodeusCruentus/Images/blob/main/logodone.jpg)
-
 Welcome to the Public Script Repository of Asmodeus Cruentus!
 
 This repository contains scripts for the follwoing : 
