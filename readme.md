@@ -2,9 +2,16 @@
 
 ![Screenshot](https://github.com/AsmodeusCruentus/Images/blob/main/logodone.jpg)
 
-Welcome to the Asmodeus Cruentus repository!
+Welcome to the Public Script Repository of Asmodeus Cruentus!
 
-This repository contains scripts for Memory Error. Please note that these scripts come with risks, and their usage is entirely at your own discretion. I am not liable for any issues that may arise from the use of these scripts.
+This repository contains scripts for the follwoing : 
+*  -Memory Error.
+*  -BotWithUs.
+*  -Razer Synapse 3.0
+*  - 
+
+Please note that these scripts come with risks, and their usage is entirely at your own discretion. 
+I am not liable for any issues that may arise from the use of these scripts.
 
 ## Disclaimer
 Use these scripts responsibly and at your own risk. I do not guarantee their effectiveness or safety in any context.
